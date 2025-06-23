@@ -1,7 +1,7 @@
 {
   "name": "ancient",
   "chain": "ethereum",
-  "blockNumber": 22615662,
+  "blockNumber": 22725143,
   "configHash": "0x641363e0d06fc91e72005cc47cebc3454f5568a070fd2caa935b13bfcd65111d",
   "entries": [
     {
@@ -94,11 +94,6 @@
         "batcherHash": "0x6079e9c37b87fE06D0bDe2431a0fa309826c9b67",
         "gasLimit": 30000000,
         "minimumGasLimit": 21000000,
-        "opStackDA": {
-          "isSequencerSendingBlobTx": false,
-          "isUsingCelestia": true,
-          "isUsingEigenDA": false
-        },
         "overhead": 188,
         "owner": "0x4a4962275DF8C60a80d3a25faEc5AA7De116A746",
         "resourceConfig": {
@@ -116,6 +111,7 @@
         "version": "1.3.1",
         "VERSION": 0
       },
+      "errors": { "opStackDA": "Processing error occurred." },
       "fieldMeta": {
         "gasLimit": {
           "severity": "LOW",
@@ -373,7 +369,7 @@
         "getChainId": 1,
         "GnosisSafe_modules": [],
         "multisigThreshold": "4 of 11 (36%)",
-        "nonce": 103,
+        "nonce": 107,
         "VERSION": "1.3.0"
       },
       "implementationNames": {
@@ -577,10 +573,10 @@
         "deletedOutputs": [],
         "FINALIZATION_PERIOD_SECONDS": 604800,
         "L2_BLOCK_TIME": 2,
-        "latestBlockNumber": 21409200,
-        "latestOutputIndex": 11893,
-        "nextBlockNumber": 21411000,
-        "nextOutputIndex": 11894,
+        "latestBlockNumber": 22069800,
+        "latestOutputIndex": 12260,
+        "nextBlockNumber": 22071600,
+        "nextOutputIndex": 12261,
         "PROPOSER": "0xAF24199C29D5cc3fd298356137913A42847eA690",
         "startingBlockNumber": 0,
         "startingTimestamp": 1706027387,

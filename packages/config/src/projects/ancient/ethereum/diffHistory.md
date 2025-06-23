@@ -1,3 +1,31 @@
+Generated with discovered.json: 0xbfa9e9be1ac9e37e99f2d9dd4ff57028da00d29b
+
+# Diff at Tue, 17 Jun 2025 15:33:50 GMT:
+
+- author: pranay5255 (<pranay5255@yahoo.com>)
+- comparing to: main@f8ca12fb38560cac6486c82e9264cd8201b1ed5e block: 22615662
+- current block number: 22725143
+
+## Description
+
+Provide description of changes. This section will be preserved.
+
+## Config/verification related changes
+
+Following changes come from updates made to the config file,
+or/and contracts becoming verified, not from differences found during
+discovery. Values are for block 22615662 (main branch discovery), not current.
+
+```diff
+    contract SystemConfig (0x0b4cfc49aCc656CE6D03CB0794860Da92bE3E8ec) {
+    +++ description: Contains configuration parameters such as the Sequencer address, gas limit on this chain and the unsafe block signer address.
+      values.opStackDA:
+-        {"isSequencerSendingBlobTx":false,"isUsingCelestia":true,"isUsingEigenDA":false}
+      errors:
++        {"opStackDA":"Processing error occurred."}
+    }
+```
+
 Generated with discovered.json: 0xcfdbad1c26209aea00288f8c56595bf3a3872421
 
 # Diff at Mon, 16 Jun 2025 08:41:39 GMT:
