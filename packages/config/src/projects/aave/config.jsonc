@@ -1,0 +1,16 @@
+{
+    "$schema": "../../../../discovery/schemas/config.v2.schema.json",
+    "name": "ancient",
+    "import": ["../globalConfig.jsonc"],
+    "chains": {
+      "ethereum": {
+        "initialAddresses": [
+          "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+        ],
+        "names": {
+          "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": "AaveTokenV2"
+        }
+      }
+    }
+  }
+  

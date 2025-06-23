@@ -1,7 +1,7 @@
 {
   "name": "phala",
   "chain": "ethereum",
-  "blockNumber": 22631701,
+  "blockNumber": 22725106,
   "configHash": "0xafe2357199b43a3780ffe10c666754af016ad18868b8b47d1012006791360be4",
   "entries": [
     {
@@ -180,7 +180,7 @@
         ],
         "$upgradeCount": 1,
         "MESSAGE_VERSION": 1,
-        "messageNonce": "1766847064778384329583297500742918515827483896875618958121606201292619832",
+        "messageNonce": "1766847064778384329583297500742918515827483896875618958121606201292619834",
         "MIN_GAS_CALLDATA_OVERHEAD": 16,
         "MIN_GAS_DYNAMIC_OVERHEAD_DENOMINATOR": 63,
         "MIN_GAS_DYNAMIC_OVERHEAD_NUMERATOR": 64,
@@ -487,7 +487,7 @@
         "getChainId": 1,
         "GnosisSafe_modules": [],
         "multisigThreshold": "2 of 2 (100%)",
-        "nonce": 72,
+        "nonce": 73,
         "VERSION": "1.3.0"
       },
       "implementationNames": {
@@ -629,7 +629,7 @@
         "getChainId": 1,
         "GnosisSafe_modules": [],
         "multisigThreshold": "4 of 11 (36%)",
-        "nonce": 104,
+        "nonce": 107,
         "VERSION": "1.3.0"
       },
       "implementationNames": {
@@ -768,7 +768,7 @@
         "getChainId": 1,
         "GnosisSafe_modules": [],
         "multisigThreshold": "2 of 2 (100%)",
-        "nonce": 17,
+        "nonce": 19,
         "VERSION": "1.3.0"
       },
       "implementationNames": {
@@ -903,7 +903,7 @@
         "getChainId": 1,
         "GnosisSafe_modules": [],
         "multisigThreshold": "5 of 7 (71%)",
-        "nonce": 29,
+        "nonce": 31,
         "VERSION": "1.3.0"
       },
       "implementationNames": {
@@ -1007,8 +1007,8 @@
         "l2Sender": "0x000000000000000000000000000000000000dEaD",
         "params": {
           "prevBaseFee": 1000000000,
-          "prevBoughtGas": 492334,
-          "prevBlockNum": 22630260
+          "prevBoughtGas": 491310,
+          "prevBlockNum": 22704253
         },
         "paused": false,
         "superchainConfig": "0xeDe0D2f74e71bD43459e92D90c434D8cA5E597B8",
@@ -1223,10 +1223,10 @@
         "initializerVersion": 2,
         "L2_BLOCK_TIME": 10,
         "l2BlockTime": 10,
-        "latestBlockNumber": 1460460,
-        "latestOutputIndex": 372,
-        "nextBlockNumber": 1464780,
-        "nextOutputIndex": 373,
+        "latestBlockNumber": 1573860,
+        "latestOutputIndex": 393,
+        "nextBlockNumber": 1578180,
+        "nextOutputIndex": 394,
         "optimisticMode": false,
         "owner": "0x4a4962275DF8C60a80d3a25faEc5AA7De116A746",
         "proposer": "0xF579A1cDfb89D0Aaf240d489EF10aB01A2B7f8F2",
@@ -1311,7 +1311,7 @@
         "getChainId": 1,
         "GnosisSafe_modules": ["0x0454092516c9A4d636d3CAfA1e82161376C8a748"],
         "multisigThreshold": "10 of 13 (77%)",
-        "nonce": 29,
+        "nonce": 31,
         "VERSION": "1.3.0"
       },
       "implementationNames": {
