@@ -677,6 +677,9 @@ importers:
       '@l2beat/discovery':
         specifier: workspace:*
         version: link:../discovery
+      '@l2beat/l2b':
+        specifier: 'link:'
+        version: 'link:'
       '@l2beat/protocolbeat':
         specifier: workspace:*
         version: link:../protocolbeat
